@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+# Real resumes contain personal data. Keep them out of the repo.
+eval/data/resumes/
